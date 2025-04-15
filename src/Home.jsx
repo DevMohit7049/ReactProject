@@ -9,7 +9,7 @@ const Home = () => {
                      bg-white w-full sm:[80%] md:w-[60%] lg:w-[40%] xl:w-[30%] h-auto rounded-xs flex flex-col items-center
                     p-6 gap-6">
                          <div className="row-one flex items-center gap-6 w-full">
-                              <img src="./src/img/one.png" alt="" className="w-[18%]" />
+                              <img src="./src/one.png" alt="" className="w-[18%]" />
                               <div className="sub-headings">
                                    <h2 className="text-lg sm:text-xl font-semibold">Sarah Dole</h2>
                                    <span className="text-[#525252]">@Sarahdole</span>
